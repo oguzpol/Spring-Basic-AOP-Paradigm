@@ -1,8 +1,6 @@
 package com.polatmehmetoguz.aopdemoapp.bootstrap;
 
-import com.polatmehmetoguz.aopdemoapp.model.Message;
 import com.polatmehmetoguz.aopdemoapp.service.MessageService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
